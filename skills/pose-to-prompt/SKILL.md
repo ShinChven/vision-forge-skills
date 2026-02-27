@@ -1,6 +1,6 @@
 ---
 name: pose-to-prompt
-description: Translates physical poses of human characters from images into detailed, generation-ready text prompts for image models like Stable Diffusion or Midjourney.
+description: Translates physical poses of human characters from images into detailed, generation-ready text prompts for state-of-the-art image generation models.
 ---
 
 # Pose Analysis & Prompt Generation
