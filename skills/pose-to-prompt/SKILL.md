@@ -5,7 +5,9 @@ description: Translates physical poses of human characters from images into deta
 
 # Pose Analysis & Prompt Generation
 
-Analyze human character poses from images to generate precise text descriptions. Focus exclusively on anatomy and posture, ignoring environment or clothing unless they influence the pose.
+Analyze human character poses from images to generate precise text descriptions. Focus exclusively on anatomy and posture, ignoring environment or clothing unless they influence the pose. 
+
+Use the [Pose & Composition Library](references/library.md) for standard terminology regarding camera angles, framing, and pose classifications.
 
 ## Workflow
 
